@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>941709102881-6ogo97ktjk32h73k1f2b533615m4ntga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941709102881-6ogo97ktjk32h73k1f2b533615m4ntga</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUrfFl3gPwhd8OKm1tqL6Y_AteMUyfTXw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941709102881</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.domain.kittyprydebullyingstory</string>
+	<key>PROJECT_ID</key>
+	<string>kitty-pryde-bullying-story</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kitty-pryde-bullying-story.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941709102881:ios:7d35670f6f52a48840f860</string>
+</dict>
+</plist>
